@@ -1,0 +1,17 @@
+👉👉Hamming Distace
+
+👉👉"karolin" and "kathrin" is 3
+👉👉"karolin" and "kerstin" is 3
+
+
+
+
+
+
+👉👉 Levenshtein Distance
+
+
+The Levenshtein distance between "kitten" and "sitting" is 3
+
+1. kitten sitten (substitution of "k" with "s")
+
